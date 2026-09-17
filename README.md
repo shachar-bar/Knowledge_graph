@@ -1,4 +1,4 @@
-## Enhanced Retrieval-Augmented Generation Framework for Fake News Detection 
+## Enhanced Retrieval-Augmented Generation explainability using semantic enrichment knowledge graph
 
 ### This is part of my PhD research project.  
 
